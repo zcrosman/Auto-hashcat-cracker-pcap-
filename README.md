@@ -4,7 +4,6 @@ WIP!
   
 **TODO**  
   implement hashcat rule options  
-  menu for choosing which handshake to crack   
 
 Setup:  
   change directory/file variables   
