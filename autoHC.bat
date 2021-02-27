@@ -1,6 +1,6 @@
 set wordlistdir=D:\hashcat-6.0.0\hashcat-6.0.0\Top1pt8Billion-WPA-probable-v2.txt
 set hcdir=D:\hashcat-6.0.0\hashcat-6.0.0
-set handdir=D:\hashcat-6.0.0\hashcat-6.0.0\handshakes
+set handdir=D:\handshakes
 
 
 if not exist %handdir%\hccapx mkdir %handdir%\hccapx
