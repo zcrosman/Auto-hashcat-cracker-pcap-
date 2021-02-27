@@ -2,7 +2,7 @@
 
 WIP!    
   
-**TODO**
+**TODO**  
   implement hashcat rule options  
   menu for choosing which handshake to crack   
 
