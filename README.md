@@ -4,6 +4,7 @@ WIP!
   
 **TODO**  
   implement hashcat rule options  
+  implement wordlist options  
 
 Setup:  
   change directory/file variables   
