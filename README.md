@@ -2,7 +2,7 @@
 WIP! Not all features are finished.   
  
 The idea behind the script is to automate and simplify the process of cracking captured handshakes.
-  1. Combine all the capture files into one cap file
+  1. Combine all the capture files into one capture file
   2. Convert the new capture file into a format that can be used with hashcat. This step uses cap2hccapx, which is part of hashcat utils
   3. Start cracking though a simple menu
  
